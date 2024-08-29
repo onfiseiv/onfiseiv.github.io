@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onfiseiv.github.io/sitemap.html.gz
+Sitemap: https://onfiseiv.github.io/app/sitemap.html.gz
+Sitemap: https://onfiseiv.github.io/assets/sitemap.html.gz
+Sitemap: https://onfiseiv.github.io/css/sitemap.html.gz
+Sitemap: https://onfiseiv.github.io/includes/sitemap.html.gz
+Sitemap: https://onfiseiv.github.io/item/sitemap.html.gz
+Sitemap: https://onfiseiv.github.io/src/sitemap.html.gz
